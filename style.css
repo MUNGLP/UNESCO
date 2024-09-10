@@ -1,0 +1,17 @@
+
+body{
+    background: white;
+}
+
+.topnav{
+    display: flex;
+    justify-content: space-around;
+
+    background: lightblue;
+
+    position: absolute;
+    top: 0px;
+
+   width: 100%;
+    
+}
